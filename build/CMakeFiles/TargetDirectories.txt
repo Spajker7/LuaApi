@@ -1,0 +1,3 @@
+/home/spajk/Desktop/bedrock-vanilla/leet-api/build/CMakeFiles/rebuild_cache.dir
+/home/spajk/Desktop/bedrock-vanilla/leet-api/build/CMakeFiles/LeetApi.dir
+/home/spajk/Desktop/bedrock-vanilla/leet-api/build/CMakeFiles/edit_cache.dir
