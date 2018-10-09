@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC   -shared -Wl,-soname,libLeetApi.so -o libLeetApi.so CMakeFiles/LeetApi.dir/src/main.cpp.o CMakeFiles/LeetApi.dir/src/EventManager.cpp.o CMakeFiles/LeetApi.dir/src/LuaPlayer.cpp.o CMakeFiles/LeetApi.dir/src/events/PlayerJoinEvent.cpp.o -Wl,-rpath,/usr/local/lib /usr/local/lib/libserver_modloader.so /usr/local/lib/liblua.so 

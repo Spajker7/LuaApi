@@ -1,7 +1,7 @@
 #include <modloader/statichook.h>
 #include <modloader/log.h>
 #include <minecraft/Player.h>
-#include "../LuaPlayer.cpp"
+#include "../LuaPlayer.h"
 #include "../EventManager.h"
 #include <minecraft/ServerNetworkHandler.h>
 

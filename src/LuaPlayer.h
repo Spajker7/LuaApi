@@ -1,8 +1,6 @@
 #pragma once
 #include <minecraft/Player.h>
 
-
-
 struct LuaPlayer {
   Player& player;
 

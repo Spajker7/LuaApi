@@ -14,5 +14,5 @@ find_library(Lua lua)
 
 include_directories(minecraft-headers/)
 
-add_library(LeetApi SHARED src/main.cpp src/BanCommand.h src/EventManager.h src/EventManager.cpp src/sol.hpp src/LuaPlayer.cpp src/events/PlayerJoinEvent.cpp)
+add_library(LeetApi SHARED src/main.cpp src/BanCommand.h src/EventManager.h src/sol.hpp src/LuaPlayer.h src/events/PlayerJoinEvent.cpp)
 target_link_libraries(LeetApi PUBLIC ModLoader "${Lua}")

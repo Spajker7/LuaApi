@@ -8,7 +8,7 @@
 #include <lua/lua.hpp>
 #include "EventManager.h"
 #include "sol.hpp"
-#include "LuaPlayer.cpp"
+#include "LuaPlayer.h"
 
 using namespace modloader;
 
